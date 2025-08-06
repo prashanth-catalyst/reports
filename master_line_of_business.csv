@@ -1,0 +1,8 @@
+"lob_id","lob_name","lob_desc","created_at","created_by","modified_at","modified_by","is_active"
+"1","Sales","Sales","2023-05-26 10:10:10.797","Admin",NULL,"",True
+"2","Service","Service","2023-05-26 10:10:10.797","Admin",NULL,"",True
+"3","Accessories","Accessories","2023-05-26 10:10:10.797","Admin",NULL,"",True
+"4","Suzuki Connect","Suzuki Connect","2023-05-26 10:10:10.797","Admin",NULL,"",True
+"5","True Value","True Value","2023-05-26 10:10:10.797","Admin",NULL,"",True
+"6","MSDS","MSDS","2023-08-09 11:51:12.6288","admin",NULL,NULL,True
+"7","MSGP","MSGP","2023-10-05 08:30:40.193756","Admin",NULL,NULL,True

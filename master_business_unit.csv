@@ -1,0 +1,6 @@
+"channel_id","channel_name","channel_desc","created_at","created_by","modified_at","modified_by","is_active","channel_code"
+"1","Arena","Arena","2023-05-26 10:08:29.743","Admin",NULL,"",True,"NRM"
+"2","Nexa","Nexa","2023-05-26 10:08:29.743","Admin",NULL,"",True,"EXC"
+"3","True Value","True Value","2023-05-26 10:08:29.743","Admin",NULL,"",True,"TV"
+"4","Commercial","Commercial","2023-05-26 10:08:29.743","Admin",NULL,"",True,"COM"
+"5","MDS","MDS","2023-08-09 11:50:38.97553","admin",NULL,NULL,True,"MDS"
